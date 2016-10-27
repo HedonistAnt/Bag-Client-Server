@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\BagServer\BagServer\bin\Debug\BagServer.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\BagServer\BagServer\obj\Debug\BagServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\BagServer\BagServer\bin\Debug\BagServer.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\BagServer\BagServer\bin\Debug\BagServer.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\BagServer\BagServer\obj\Debug\BagServer.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\BagServer\BagServer\obj\Debug\BagServer.pdb

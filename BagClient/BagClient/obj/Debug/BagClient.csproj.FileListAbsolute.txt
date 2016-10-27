@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\BagClient\BagClient\bin\Debug\BagClient.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\BagClient\BagClient\bin\Debug\BagClient.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\BagClient\BagClient\bin\Debug\BagClient.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\BagClient\BagClient\obj\Debug\BagClient.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\BagClient\BagClient\obj\Debug\BagClient.pdb
